@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ercuorac.github.io/sitemap.html.gz
+Sitemap: https://ercuorac.github.io/app/sitemap.html.gz
+Sitemap: https://ercuorac.github.io/assets/sitemap.html.gz
+Sitemap: https://ercuorac.github.io/css/sitemap.html.gz
+Sitemap: https://ercuorac.github.io/includes/sitemap.html.gz
+Sitemap: https://ercuorac.github.io/item/sitemap.html.gz
+Sitemap: https://ercuorac.github.io/src/sitemap.html.gz
